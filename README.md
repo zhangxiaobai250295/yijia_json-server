@@ -1,4 +1,4 @@
-# airbnb_json-server
+# yijia_json-server
 
 > A Vue.js project
 
